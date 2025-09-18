@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.bidv.bone.uat",
+            "sha256_cert_fingerprints": [
+                "84:56:76:A7:39:F2:11:F1:71:29:B9:D1:CA:2B:3A:A6:A7:76:04:91:9A:06:92:17:F2:13:FD:E1:5D:94:42:D6"
+            ]
+        }
+    }
+]
